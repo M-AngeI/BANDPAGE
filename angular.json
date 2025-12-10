@@ -17,8 +17,8 @@
         "build": {
           "builder": "@angular/build:application",
           "options": {
-            "outputPath":"dist/bandpage",
-            "baseHref": "/BandPage/",
+            "outputPath":"dist/BANDPAGE",
+            "baseHref": "/BANDPAGE/",
             "browser": "src/main.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [
